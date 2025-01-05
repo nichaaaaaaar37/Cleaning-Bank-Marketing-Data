@@ -1,8 +1,8 @@
 # Cleaning-Bank-Marketing-Data-for-Campaign
 ## [ Mini Project ] : Tasked with cleaning marketing campaign data on personal loans to meet specified structure and data types for a PostgreSQL database, enabling storage and easy integration of future campaigns. 
 
+![istockphoto-495306585-1024x1024](https://github.com/user-attachments/assets/7cfd8d2c-1fbf-402a-85b4-c0498e33c583)
 
-![Uploading istockphoto-495306585-1024x1024.jpg…]()
 
 
 **''' Personal loans are a lucrative revenue stream for banks. The typical interest rate of a two-year loan in the United Kingdom is 
